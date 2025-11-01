@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProfileUI</string>
+    <string name="profile_picture_desc">A picture of the user\'s profile</string>
+    <string name="name">Maydelyn</string>
+    <string name="bio">3rd year DIT student of PUP-Taguig Campus</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>
